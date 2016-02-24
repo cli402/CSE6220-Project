@@ -1,0 +1,22 @@
+Adding user cli402 to group authjobs
+--------------------------------------------------------------------------
+mpirun noticed that process rank 1 with PID 31500 on node jinx3 exited on signal 13 (Broken pipe).
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 31524 on node jinx3 exited on signal 13 (Broken pipe).
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 1 with PID 31550 on node jinx3 exited on signal 13 (Broken pipe).
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 1 with PID 31588 on node jinx3 exited on signal 13 (Broken pipe).
+--------------------------------------------------------------------------
+2 total processes killed (some possibly by mpirun during cleanup)
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 31640 on node jinx3 exited on signal 13 (Broken pipe).
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 31695 on node jinx3 exited on signal 13 (Broken pipe).
+--------------------------------------------------------------------------
+2 total processes killed (some possibly by mpirun during cleanup)
+Removing user cli402 from group authjobs
